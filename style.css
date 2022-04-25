@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #448aff;
+}
+.container {
+    background-color: white;
+    width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+    text-align: center;
+}
+input {
+    padding: 5px;
+    margin: 10px;
+    background-color: #448aff;
+    color: white;
+}
